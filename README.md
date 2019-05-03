@@ -1,9 +1,9 @@
 # CriticalMass
 2019 Critical Mass Web Developer Internship Interview Assignment
 
-##Work / Project Examples
+## Work / Project Examples
 
-##Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.
+## Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.
 
 1) In my previous job at Platform by Perscholas, I was leading a project that had to standardize all assessments and case studies for all of the curricula that the company offered, which in total there were six. This project had various challenges:  these curricula ranged from 6 weeks to 14 weeks, Four of those curricula just started running sessions at the time, and because every curriculum was created to fulfill a particular client's need, we need to make sure that the assessment had the approval of the client. Including me, we were a team of 5 to tackle this project. The way we decided to approach these challenges was by first, prioritizing the assessments that belong to the curricula that were running and in the order that these curricula delivered these assessments to the students. Also, while I was recruiting my team, I was looking for particular skills that would be essential to create some of the assessments, that way I was able to assign the different assessments to each team member, including myself. Finally, before starting the project, I had created various documents detailing formats, requirements, and sample assessments that my team would have as resources to make the process as smooth as possible. During the process, I had to make sure every assessment were up to standard, that we were adequately communicating internally and with the client's team that was in charge of approving our work. As a result of teamwork and hard work, we were able to meet all deadlines, have the approval of the clients, and deliver high-quality assessments to the students.
 
